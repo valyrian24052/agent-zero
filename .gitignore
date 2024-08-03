@@ -2,7 +2,7 @@
 **/.env
 **/__pycache__/
 
-
+agent/
 
 # Ignore all contents of the directory "work_dir"
 work_dir/*
